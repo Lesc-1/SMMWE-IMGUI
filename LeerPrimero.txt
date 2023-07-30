@@ -1,0 +1,9 @@
+// LEER ESTO PRIMERO Y BORRAR DESPUES //
+
+ Esto es una ayuda para la gente quien quiera programar sus extensiones para smmwe en formato dll
+ Con esto podras crear tus propias cosas ya sea, modificaciones al juego, extraer variables etc 
+ El menu se encuentra en /src/hooks/EndScene.cpp
+ Para Añadir funciones. ve a /src/Events/ y añade tu propio codigo en c++
+
+
+// Eso es todo :P //
