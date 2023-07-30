@@ -6,6 +6,9 @@ Un ImGUI que usa librerias dx9 para el juego SMMWE.
 
 Primero necesitaras [VS2022](https://visualstudio.microsoft.com/es/thank-you-downloading-visual-studio/?sku=Community&channel=Release&version=VS2022&source=VSLandingPage&cid=2030&passive=false) y [La SDK de DirectX9](https://www.microsoft.com/en-us/download/details.aspx?id=6812), las otras librerias se incluyen dentro del proyecto.
 
+# Como Compilar
+Arriba por el medio tendras la opciones de como compilar, Si o si debe ser en release | x86.
+
 ## Contribución
 
 ```
